@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Crashland-0.1";
 const contentToCache = [
-    "Build/CrashlandNonCompressedGPU.loader.js",
-    "Build/CrashlandNonCompressedGPU.framework.js",
-    "Build/CrashlandNonCompressedGPU.data",
-    "Build/CrashlandNonCompressedGPU.wasm",
+    "Build/webgl-build-tester.loader.js",
+    "Build/webgl-build-tester.framework.js",
+    "Build/webgl-build-tester.data",
+    "Build/webgl-build-tester.wasm",
     "TemplateData/style.css"
 
 ];
