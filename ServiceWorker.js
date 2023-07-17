@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-Crashland-0.1";
+const cacheName = "Crashland-Crashland-0.0";
 const contentToCache = [
     "Build/webgl-build-tester.loader.js",
     "Build/webgl-build-tester.framework.js",
